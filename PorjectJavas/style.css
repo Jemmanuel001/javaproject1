@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: #fff;
+    height: 100%;
+}
+
+#results {
+    display:none;
+  }
+
+  .container{
+    color: aqua;
+   
+  }
+
+  .card {
+    background-image: url(distraction-water.gif) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    border-radius: 20px;
+    
+  }
+
+    
+ 
+
